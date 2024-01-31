@@ -24,7 +24,7 @@
 
  ### ... and podcasts:
  <p align="center">
-  03x02 Kotlin ¡No es 'Kot-fuso'!, con Elena Guidi- Tech and Ladies Podcast <a href="https://podcasters.spotify.com/pod/show/techladies/episodes/03x02---Kotlin--No-es-Kot-fuso---con-Elena-Guidi---TechLadies-Podcast-e2aj5ad" target="blank"><img align="center" src="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_nologo400/11195988/11195988-1617647587793-c85afaede480b.jpg" alt="Tech and Ladies Podcast" height="100" width="100" /></a>
+  03x02 Kotlin ¡No es 'Kot-fuso'!, con Elena Guidi- Tech and Ladies Podcast <a href="https://podcasters.spotify.com/pod/show/techladies/episodes/03x02---Kotlin--No-es-Kot-fuso---con-Elena-Guidi---TechLadies-Podcast-e2aj5ad" target="blank"><img align="center" src="https://github.com/ElePan/ElePan/blob/main/images/TechAndLadiesPodcast.png" alt="Tech and Ladies Podcast" height="100" width="100" /></a>
     <br>
  
  ### Volunteering: 
